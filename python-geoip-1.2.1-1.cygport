@@ -1,0 +1,6 @@
+inherit distutils
+
+DESCRIPTION="Python GeoIP bindings"
+HOMEPAGE="http://www.maxmind.com/app/python"
+SRC_URI="http://www.maxmind.com/download/geoip/api/python/GeoIP-Python-${PV}.tar.gz"
+SRC_DIR="GeoIP-Python-${PV}"
