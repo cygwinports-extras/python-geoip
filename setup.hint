@@ -1,4 +1,4 @@
 category: Net Python
-requires: cygwin libGeoIP1 python
+requires: libGeoIP1 python
 sdesc: "Python GeoIP bindings"
 ldesc: "Python bindings for the MaxMind GeoIP database."
